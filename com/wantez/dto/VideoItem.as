@@ -1,0 +1,1 @@
+﻿class com.wantez.dto.VideoItem {	public var id:Number;	public var descripcion:String;	public var path:String;}

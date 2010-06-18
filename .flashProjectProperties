@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1276441960771</id>
+  <name>MACBA Video Flash Player</name>
+  <asVersion>1</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/ivanrodriguezmurillo/Library/Application Support/Adobe/Flash CS5/es_ES/Configuration/ActionScript 3.0/Templates/boundClass_as2.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/ivanrodriguezmurillo/Library/Application Support/Adobe/Flash CS5/es_ES/Configuration/ActionScript 3.0/Templates/standardClass_as2.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/player.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="player.fla">file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/player.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="player.fla">file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/player.fla</uri>
+    <uri label="Application.as">file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/com/wantez/bootstrap/Application.as</uri>
+    <uri label="VideoItem.as">file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/com/wantez/dto/VideoItem.as</uri>
+    <uri label="XMLAdapter.as">file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/com/wantez/utils/XMLAdapter.as</uri>
+    <uri label="videos.xml">file:///Macintosh HD/Users/ivanrodriguezmurillo/Documents/Proyectos/MACBA-JOURN.E TOUCH/app Flash/xml/videos.xml</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
